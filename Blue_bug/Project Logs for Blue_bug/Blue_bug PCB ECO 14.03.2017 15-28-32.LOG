@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=Net*_14 Pin=*-14
+Added Pin To Net: NetName=Net*_14 Pin=T?-G
+Added Net: Name=Net*_14
+Added Room: Name=Blue_bug

@@ -1,0 +1,20 @@
+Removed Pin From Net: NetName=GND Pin=T?-S
+Removed Pin From Net: NetName=GND Pin=T?-S
+Removed Pin From Net: NetName=GND Pin=T?-S
+Removed Pin From Net: NetName=GND Pin=T?-S
+Removed Pin From Net: NetName=GND Pin=T?-S
+Removed Pin From Net: NetName=GND Pin=T?-S
+Removed Pin From Net: NetName=GND Pin=T?-S
+Removed Pin From Net: NetName=GND Pin=T?-S
+Added Pin To Net: NetName=12V Pin=D?-3
+Added Net: Name=12V
+Added Pin To Net: NetName=OUT Pin=T?-S
+Added Pin To Net: NetName=OUT Pin=T?-S
+Added Pin To Net: NetName=OUT Pin=T?-S
+Added Pin To Net: NetName=OUT Pin=T?-S
+Added Pin To Net: NetName=OUT Pin=T?-S
+Added Pin To Net: NetName=OUT Pin=T?-S
+Added Pin To Net: NetName=OUT Pin=T?-S
+Added Pin To Net: NetName=OUT Pin=T?-S
+Added Net: Name=OUT
+Added Room: Name=Blue_bug

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=Net*_14 Pin=T?-G
+Added Component: Designator=D?(DIODE-0.7)
+Added Component: Designator=Q?(SOT-23B_N)
+Added Pin To Net: NetName=GND Pin=Q?-1
+Added Pin To Net: NetName=Net*_14 Pin=Q?-2
+Added Pin To Net: NetName=NetQ?_3 Pin=Q?-3
+Added Pin To Net: NetName=NetQ?_3 Pin=T?-G
+Added Net: Name=NetQ?_3
+Added Member To Class: ClassName=Blue_bug Member=Component D? D Zener
+Added Member To Class: ClassName=Blue_bug Member=Component Q? PNP
+Added Room: Name=Blue_bug

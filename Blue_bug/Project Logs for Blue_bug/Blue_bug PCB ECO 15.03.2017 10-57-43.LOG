@@ -1,0 +1,15 @@
+Removed Pin From Net: NetName=Net*_14 Pin=Q?-2
+Removed Member From Class: ClassName=Blue_bug Member=T?
+Change Component Designator: OldDesignator=T? NewDesignator=Q?
+Added Component: Designator=R?(R0805)
+Added Component: Designator=R?(R0805)
+Added Pin To Net: NetName=NetQ?_3 Pin=R?-1
+Added Pin To Net: NetName=12V Pin=R?-2
+Added Pin To Net: NetName=Net*_14 Pin=R?-2
+Added Pin To Net: NetName=NetQ?_2 Pin=Q?-2
+Added Pin To Net: NetName=NetQ?_2 Pin=R?-1
+Added Net: Name=NetQ?_2
+Added Member To Class: ClassName=Blue_bug Member=Component Q? PNP
+Added Member To Class: ClassName=Blue_bug Member=Component R? R0805
+Added Member To Class: ClassName=Blue_bug Member=Component R? R0805
+Added Room: Name=Blue_bug

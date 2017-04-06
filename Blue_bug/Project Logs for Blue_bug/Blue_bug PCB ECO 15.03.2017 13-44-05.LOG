@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=RESETN Pin=*-23
+Added Pin To Net: NetName=Net*_22 Pin=*-22
+Added Pin To Net: NetName=Net*_22 Pin=R3-2
+Added Net: Name=Net*_22
+Added Room: Name=Blue_bug

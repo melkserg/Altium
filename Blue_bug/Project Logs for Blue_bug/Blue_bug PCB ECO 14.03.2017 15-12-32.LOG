@@ -1,0 +1,21 @@
+Added Component: Designator=*(DirFET L8)
+Added Component: Designator=*(JDY-08)
+Added Component: Designator=D?(SOP127P600-8N)
+Added Component: Designator=P?(HDR2X5)
+Added Pin To Net: NetName=3.3V Pin=P?-9
+Added Net: Name=3.3V
+Added Pin To Net: NetName=CSN Pin=P?-5
+Added Net: Name=CSN
+Added Pin To Net: NetName=DC Pin=P?-3
+Added Net: Name=DC
+Added Pin To Net: NetName=GND Pin=*-24
+Added Pin To Net: NetName=GND Pin=D?-1
+Added Pin To Net: NetName=GND Pin=P?-1
+Added Net: Name=GND
+Added Pin To Net: NetName=RESETN Pin=P?-7
+Added Net: Name=RESETN
+Added Pin To Net: NetName=VCC Pin=*-1
+Added Pin To Net: NetName=VCC Pin=D?-2
+Added Net: Name=VCC
+Added Class: Name=Blue_bug
+Added Room: Name=Blue_bug

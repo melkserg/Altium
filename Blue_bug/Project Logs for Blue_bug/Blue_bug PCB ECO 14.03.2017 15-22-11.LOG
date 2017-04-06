@@ -1,0 +1,21 @@
+Change Component Designator: OldDesignator=* NewDesignator=T?
+Added Pin To Net: NetName=GND Pin=T?-S
+Added Pin To Net: NetName=GND Pin=T?-S
+Added Pin To Net: NetName=GND Pin=T?-S
+Added Pin To Net: NetName=GND Pin=T?-S
+Added Pin To Net: NetName=GND Pin=T?-S
+Added Pin To Net: NetName=GND Pin=T?-S
+Added Pin To Net: NetName=GND Pin=T?-S
+Added Pin To Net: NetName=GND Pin=T?-S
+Added Pin To Net: NetName=IN Pin=T?-D
+Added Pin To Net: NetName=IN Pin=T?-D
+Added Pin To Net: NetName=IN Pin=T?-D
+Added Pin To Net: NetName=IN Pin=T?-D
+Added Pin To Net: NetName=IN Pin=T?-D
+Added Pin To Net: NetName=IN Pin=T?-D
+Added Net: Name=IN
+Added Pin To Net: NetName=Net*_22 Pin=*-22
+Added Pin To Net: NetName=Net*_22 Pin=T?-G
+Added Net: Name=Net*_22
+Added Member To Class: ClassName=Blue_bug Member=Component T? IRF7739L2
+Added Room: Name=Blue_bug

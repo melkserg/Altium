@@ -1,0 +1,3 @@
+Change Component Footprint: Designator=D? Old Footprint=SOP127P600-8N New Footprint=SOT223
+Added Member To Class: ClassName=Blue_bug Member=Component * JDY-08
+Added Room: Name=Blue_bug
